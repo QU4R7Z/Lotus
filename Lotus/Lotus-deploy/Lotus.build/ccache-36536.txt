@@ -1,0 +1,1467 @@
+[2022-06-05T02:13:49.491307 39636] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.492304 24024] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.492304 34176] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.492304 25324] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.492304 24024] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) base_dir = 
+[2022-06-05T02:13:49.492304 24024] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.492304 24024] Config: (default) compiler = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.492304 24024] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.492304 24024] Config: (default) compression = true
+[2022-06-05T02:13:49.492304 24024] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.492304 24024] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) debug = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.492304 24024] Config: (default) disable = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) file_clone = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) hard_link = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.492304 24024] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.492304 24024] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.492304 24024] Config: (default) max_files = 0
+[2022-06-05T02:13:49.492304 24024] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.492304 24024] Config: (default) namespace = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) path = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) read_only = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) recache = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) reshare = false
+[2022-06-05T02:13:49.492304 24024] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.492304 24024] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.492304 24024] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.492304 24024] Config: (default) stats = true
+[2022-06-05T02:13:49.492304 24024] Config: (default) stats_log = 
+[2022-06-05T02:13:49.492304 24024] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.492304 24024] Config: (default) umask = 
+[2022-06-05T02:13:49.492304 24024] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.modules.app_functions.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\stati[2022-06-05T02:13:49.492304 34176] C[2022-06-05T02:13:49.492304 35632] === CCACHE 4.6 STARTED =========================================
+t) base_dir = 
+[2022-06-05T02:13:49.492304 34176] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.492304 34176] Config: (default) compiler = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.492304 34176] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.492304 34176] Config: (default) compression = true
+[2022-06-05T02:13:49.492304 34176] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.492304 34176] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) debug = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.492304 34176] Config: (default) disable = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) file_clone = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) hard_link = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.492304 34176] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.492304 34176] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.492304 34176] Config: (default) max_files = 0
+[2022-06-05T02:13:49.492304 34176] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.492304 34176] Config: (default) namespace = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) path = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) read_only = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) recache = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) reshare = false
+[2022-06-05T02:13:49.492304 34176] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.492304 34176] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.492304 34176] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.492304 34176] Config: (default) stats = true
+[2022-06-05T02:13:49.492304 34176] Config: (default) stats_log = 
+[2022-06-05T02:13:49.492304 34176] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.492304 34176] Config: (default) umask = 
+[2022-06-05T02:13:49.492304 34176] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.PySide6.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.PySide6.c
+[2022-06-05T02:13:49.492304 25324] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) base_dir = 
+[2022-06-05T02:13:49.492304 25324] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.492304 25324] Config: (default) compiler = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.492304 25324] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.492304 25324] Config: (default) compression = true
+[2022-06-05T02:13:49.492304 25324] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.492304 25324] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) debug = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.492304 25324] Config: (default) disable = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) file_clone = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) hard_link = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.492304 25324] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.492304 25324] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.492304 25324] Config: (default) max_files = 0
+[2022-06-05T02:13:49.492304 25324] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.492304 25324] Config: (default) namespace = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) path = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) read_only = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) recache = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) reshare = false
+[2022-06-05T02:13:49.492304 25324] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.492304 25324] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.492304 25324] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.492304 25324] Config: (default) stats = true
+[2022-06-05T02:13:49.492304 25324] Config: (default) stats_log = 
+[2022-06-05T02:13:49.492304 25324] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.492304 25324] Config: (default) umask = 
+[2022-06-05T02:13:49.493304 25324] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.__main__.c
+[2022-06-05T02:13:49.492304 35632] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) base_dir = 
+[2022-06-05T02:13:49.492304 35632] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.492304 35632] Config: (default) compiler = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.492304 35632] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.492304 35632] Config: (default) compression = true
+[2022-06-05T02:13:49.492304 35632] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.492304 35632] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) debug = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.492304 35632] Config: (default) disable = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) file_clone = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) hard_link = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.492304 35632] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.492304 35632] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.492304 35632] Config: (default) max_files = 0
+[2022-06-05T02:13:49.492304 35632] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.492304 35632] Config: (default) namespace = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) path = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) read_only = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) recache = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) reshare = false
+[2022-06-05T02:13:49.492304 35632] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.492304 35632] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.492304 35632] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.492304 35632] Config: (default) stats = true
+[2022-06-05T02:13:49.492304 35632] Config: (default) stats_log = 
+[2022-06-05T02:13:49.492304 35632] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.492304 35632] Config: (default) umask = 
+[2022-06-05T02:13:49.493304 35632] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src __loader.c
+[2022-06-05T02:13:49.495303 10108] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.495303 10108] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) base_dir = 
+[2022-06-05T02:13:49.495303 10108] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.495303 10108] Config: (default) compiler = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.495303 10108] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.495303 10108] Config: (default) compression = true
+[2022-06-05T02:13:49.495303 10108] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.495303 10108] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) debug = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.495303 10108] Config: (default) disable = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) file_clone = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) hard_link = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.495303 10108] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.495303 10108] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.495303 10108] Config: (default) max_files = 0
+[2022-06-05T02:13:49.495303 10108] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.495303 10108] Config: (default) namespace = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) path = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) read_only = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) recache = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) reshare = false
+[2022-06-05T02:13:49.495303 10108] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.495303 10108] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.495303 10108] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.495303 10108] Config: (default) stats = true
+[2022-06-05T02:13:49.495303 10108] Config: (default) stats_log = 
+[2022-06-05T02:13:49.495303 10108] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.495303 10108] Config: (default) umask = 
+[2022-06-05T02:13:49.495303 10108] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.Lotus.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.Lotus.c
+[2022-06-05T02:13:49.501305 39624] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.501305 39624] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.501305 39624] Compiler type: gcc
+[2022-06-05T02:13:49.501305 34176] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.501305 34176] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.501305 34176] Compiler type: gcc
+[2022-06-05T02:13:49.502303 35632] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.502303 35632] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.502303 35632] Compiler type: gcc
+[2022-06-05T02:13:49.502303 39624] Source file: __constants.c
+[2022-06-05T02:13:49.502303 39624] Object file: __constants.o
+[2022-06-05T02:13:49.502303 34176] Source file: module.PySide6.c
+[2022-06-05T02:13:49.502303 34176] Object file: module.PySide6.o
+[2022-06-05T02:13:49.502303 35632] Source file: __loader.c
+[2022-06-05T02:13:49.502303 35632] Object file: __loader.o
+[2022-06-05T02:13:49.503304 34176] Trying direct lookup
+[2022-06-05T02:13:49.503304 35632] Trying direct lookup
+[2022-06-05T02:13:49.503304 37692] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.503304 37692] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.503304 37692] Compiler type: gcc
+[2022-06-05T02:13:49.503304 25324] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.503304 25324] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.503304 25324] Compiler type: gcc
+[2022-06-05T02:13:49.503304 39636] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.503304 39636] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.503304 38752] Compiler type: gcc
+[2022-06-05T02:13:49.503304 39636] Compiler type: gcc
+[2022-06-05T02:13:49.504307 24024] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.504307 24024] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.504307 24024] Compiler type: gcc
+[2022-06-05T02:13:49.504307 39624] No 6534pvat3do1u2vq02u86rbts9rvglqi8 in primary storage
+[2022-06-05T02:13:49.504307 10108] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.504307 10108] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.504307 10108] Compiler type: gcc
+[2022-06-05T02:13:49.504307 35632] No e483rtm685ggt0h755taooukjgdhcdhdo in primary storage
+[2022-06-05T02:13:49.504307 25324] Source file: module.__main__.c
+[2022-06-05T02:13:49.504307 25324] Object file: module.__main__.o
+[2022-06-05T02:13:49.504307 25324] Trying direct lookup
+[2022-06-05T02:13:49.504307 34176] No efd809bjv42osepojlgik1728kpo3ll30 in primary storage
+[2022-06-05T02:13:49.504307 38752] Source file: module._virtualenv.c
+[2022-06-05T02:13:49.504307 38752] Object file: module._virtualenv.o
+[2022-06-05T02:13:49.504307 24024] Source file: module.modules.app_functions.c
+[2022-06-05T02:13:49.504307 24024] Object file: module.modules.app_functions.o
+[2022-06-05T02:13:49.504307 39636] Source file: __helpers.c
+[2022-06-05T02:13:49.504307 39636] Object file: __helpers.o
+[2022-06-05T02:13:49.505307 37692] Source file: module.modules.app_settings.c
+[2022-06-05T02:13:49.505307 37692] Object file: module.modules.app_settings.o
+[2022-06-05T02:13:49.505307 24024] Trying direct lookup
+[2022-06-05T02:13:49.505307 39636] Trying direct lookup
+tus.c
+[2022-06-05T02:13:49.505307 37692] Trying direct lookup
+tus.o
+[2022-06-05T02:13:49.505307 10108] Trying direct lookup
+[2022-06-05T02:13:49.506305 39636] No eb4bpjh70fgmi40qitrsphstjkebv2fda in primary storage
+[2022-06-05T02:13:49.506305 24024] No 5804a3alcqd784deolrhqli15ck37rkpm in primary storage
+[2022-06-05T02:13:49.506305 37692] No f9dcf766u4g94v3bisk6dgr7o2c70uc08 in primary storage
+[2022-06-05T02:13:49.507306 25324] No 40cf4hv3dkobjtub2vgvlihrodts8ik8e in primary storage
+[2022-06-05T02:13:49.507306 10108] No 608884evor39ueas79sv8ntcue50kfdku in primary storage
+[2022-06-05T02:13:49.507306 38752] No 811c2cncucilbia9mftdmf5mmq57dsvd4 in primary storage
+[2022-06-05T02:13:49.509303 39624] Running preprocessor
+[2022-06-05T02:13:49.510306 35632] Running preprocessor
+[2022-06-05T02:13:49.510306 34176] Running preprocessor
+[2022-06-05T02:13:49.511304 24024] Running preprocessor
+[2022-06-05T02:13:49.512305 37692] Running preprocessor
+[2022-06-05T02:13:49.512305 39636] Running preprocessor
+[2022-06-05T02:13:49.513303 25324] Running preprocessor
+[2022-06-05T02:13:49.513303 10108] Running preprocessor
+[2022-06-05T02:13:49.513303 38752] Running preprocessor
+[2022-06-05T02:13:49.516303 32200] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.516303 32200] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) base_dir = 
+[2022-06-05T02:13:49.516303 32200] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.516303 32200] Config: (default) compiler = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.516303 32200] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.516303 32200] Config: (default) compression = true
+[2022-06-05T02:13:49.516303 32200] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.516303 32200] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) debug = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.516303 32200] Config: (default) disable = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) file_clone = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) hard_link = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.516303 32200] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.516303 32200] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.516303 32200] Config: (default) max_files = 0
+[2022-06-05T02:13:49.516303 32200] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.516303 32200] Config: (default) namespace = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) path = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) read_only = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) recache = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) reshare = false
+[2022-06-05T02:13:49.516303 32200] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.516303 32200] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.516303 32200] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.516303 32200] Config: (default) stats = true
+[2022-06-05T02:13:49.516303 32200] Config: (default) stats_log = 
+[2022-06-05T02:13:49.516303 32200] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.516303 32200] Config: (default) umask = 
+[2022-06-05T02:13:49.516303 32200] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.modules.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.modules.c
+[2022-06-05T02:13:49.520303 32200] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.520303 32200] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.520303 32200] Compiler type: gcc
+[2022-06-05T02:13:49.521302 32200] Source file: module.modules.c
+[2022-06-05T02:13:49.521302 32200] Object file: module.modules.o
+[2022-06-05T02:13:49.521302 32200] Trying direct lookup
+[2022-06-05T02:13:49.522303 32200] No 2cb345dnn2fl0b0qnm70i7clll15vepqc in primary storage
+[2022-06-05T02:13:49.523304 32200] Running preprocessor
+[2022-06-05T02:13:49.570303 26236] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.570303 26236] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) base_dir = 
+[2022-06-05T02:13:49.570303 26236] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.570303 26236] Config: (default) compiler = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.570303 26236] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.570303 26236] Config: (default) compression = true
+[2022-06-05T02:13:49.570303 26236] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.570303 26236] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) debug = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.570303 26236] Config: (default) disable = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) file_clone = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) hard_link = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.570303 26236] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.570303 26236] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.570303 26236] Config: (default) max_files = 0
+[2022-06-05T02:13:49.570303 26236] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.570303 26236] Config: (default) namespace = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) path = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) read_only = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) recache = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) reshare = false
+[2022-06-05T02:13:49.570303 26236] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.570303 26236] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.570303 26236] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.570303 26236] Config: (default) stats = true
+[2022-06-05T02:13:49.570303 26236] Config: (default) stats_log = 
+[2022-06-05T02:13:49.570303 26236] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.570303 26236] Config: (default) umask = 
+[2022-06-05T02:13:49.570303 26236] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.modules.resources_rc.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.modules.resources_rc.c
+[2022-06-05T02:13:49.580308 26236] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.580308 26236] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.580308 26236] Compiler type: gcc
+[2022-06-05T02:13:49.582309 26236] Source file: module.modules.resources_rc.c
+[2022-06-05T02:13:49.582309 26236] Object file: module.modules.resources_rc.o
+[2022-06-05T02:13:49.582309 26236] Trying direct lookup
+[2022-06-05T02:13:49.586308 26236] No 10044gv1vc9ovv80cfviasbdhgtto62ug in primary storage
+[2022-06-05T02:13:49.588305 26236] Running preprocessor
+[2022-06-05T02:13:49.593303 37204] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.593303 37204] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) base_dir = 
+[2022-06-05T02:13:49.593303 37204] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.593303 37204] Config: (default) compiler = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.593303 37204] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.593303 37204] Config: (default) compression = true
+[2022-06-05T02:13:49.593303 37204] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.593303 37204] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) debug = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.593303 37204] Config: (default) disable = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) file_clone = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) hard_link = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.593303 37204] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.593303 37204] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.593303 37204] Config: (default) max_files = 0
+[2022-06-05T02:13:49.593303 37204] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.593303 37204] Config: (default) namespace = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) path = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) read_only = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) recache = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) reshare = false
+[2022-06-05T02:13:49.593303 37204] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.593303 37204] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.593303 37204] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.593303 37204] Config: (default) stats = true
+[2022-06-05T02:13:49.593303 37204] Config: (default) stats_log = 
+[2022-06-05T02:13:49.593303 37204] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.593303 37204] Config: (default) umask = 
+[2022-06-05T02:13:49.593303 37204] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.modules.ui_functions.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.modules.ui_functions.c
+[2022-06-05T02:13:49.596303 37204] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.596303 37204] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.597303 37204] Compiler type: gcc
+[2022-06-05T02:13:49.597303 37204] Source file: module.modules.ui_functions.c
+[2022-06-05T02:13:49.597303 37204] Object file: module.modules.ui_functions.o
+[2022-06-05T02:13:49.597303 37204] Trying direct lookup
+[2022-06-05T02:13:49.598303 37204] No 3512n0tg0brtfbnsjv1tguhe5to68jsh4 in primary storage
+[2022-06-05T02:13:49.599304 37204] Running preprocessor
+[2022-06-05T02:13:49.642305 36416] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.642305 36416] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) base_dir = 
+[2022-06-05T02:13:49.642305 36416] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.642305 36416] Config: (default) compiler = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.642305 36416] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.642305 36416] Config: (default) compression = true
+[2022-06-05T02:13:49.642305 36416] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.642305 36416] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) debug = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.642305 36416] Config: (default) disable = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) file_clone = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) hard_link = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.642305 36416] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.642305 36416] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.642305 36416] Config: (default) max_files = 0
+[2022-06-05T02:13:49.642305 36416] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.642305 36416] Config: (default) namespace = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) path = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) read_only = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) recache = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) reshare = false
+[2022-06-05T02:13:49.642305 36416] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.642305 36416] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.642305 36416] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.642305 36416] Config: (default) stats = true
+[2022-06-05T02:13:49.642305 36416] Config: (default) stats_log = 
+[2022-06-05T02:13:49.642305 36416] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.642305 36416] Config: (default) umask = 
+[2022-06-05T02:13:49.642305 36416] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.modules.ui_main.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.modules.ui_main.c
+[2022-06-05T02:13:49.647303 36416] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.647303 36416] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.647303 36416] Compiler type: gcc
+[2022-06-05T02:13:49.648304 36416] Source file: module.modules.ui_main.c
+[2022-06-05T02:13:49.648304 36416] Object file: module.modules.ui_main.o
+[2022-06-05T02:13:49.648304 36416] Trying direct lookup
+[2022-06-05T02:13:49.652307 36416] No 1c44q5bnal8cqr69cqkgisil9dqc4p40k in primary storage
+[2022-06-05T02:13:49.654305 36416] Running preprocessor
+[2022-06-05T02:13:49.656304 3748 ] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) base_dir = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) compiler = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) compression = true
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) debug = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) disable = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) file_clone = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) hard_link = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.656304 3748 ] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) max_files = 0
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) namespace = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) path = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) read_only = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) recache = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) reshare = false
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) stats = true
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) stats_log = 
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.656304 3748 ] Config: (default) umask = 
+[2022-06-05T02:13:49.656304 3748 ] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.shiboken6.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.shiboken6.c
+[2022-06-05T02:13:49.662308 3748 ] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.662308 3748 ] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.662308 3748 ] Compiler type: gcc
+[2022-06-05T02:13:49.663307 3748 ] Source file: module.shiboken6.c
+[2022-06-05T02:13:49.663307 3748 ] Object file: module.shiboken6.o
+[2022-06-05T02:13:49.663307 3748 ] Trying direct lookup
+[2022-06-05T02:13:49.663307 3748 ] No 47bcr498c4549qch4hj24r76e2mugmd80 in primary storage
+[2022-06-05T02:13:49.665305 3748 ] Running preprocessor
+[2022-06-05T02:13:49.668303 17472] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.668303 17472] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) base_dir = 
+[2022-06-05T02:13:49.668303 17472] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.668303 17472] Config: (default) compiler = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.668303 17472] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.668303 17472] Config: (default) compression = true
+[2022-06-05T02:13:49.668303 17472] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.668303 17472] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) debug = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.668303 17472] Config: (default) disable = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) file_clone = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) hard_link = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.668303 17472] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.668303 17472] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.668303 17472] Config: (default) max_files = 0
+[2022-06-05T02:13:49.668303 17472] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.668303 17472] Config: (default) namespace = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) path = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) read_only = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) recache = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) reshare = false
+[2022-06-05T02:13:49.668303 17472] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.668303 17472] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.668303 17472] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.668303 17472] Config: (default) stats = true
+[2022-06-05T02:13:49.668303 17472] Config: (default) stats_log = 
+[2022-06-05T02:13:49.668303 17472] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.668303 17472] Config: (default) umask = 
+[2022-06-05T02:13:49.669304 17472] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.widgets.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.widgets.c
+[2022-06-05T02:13:49.673307 17472] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.673307 17472] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.673307 17472] Compiler type: gcc
+[2022-06-05T02:13:49.673307 17472] Source file: module.widgets.c
+[2022-06-05T02:13:49.673307 17472] Object file: module.widgets.o
+[2022-06-05T02:13:49.673307 17472] Trying direct lookup
+[2022-06-05T02:13:49.674305 17472] No 4884vhp78i1aa1o86db4lmhmrc175geja in primary storage
+[2022-06-05T02:13:49.675303 17472] Running preprocessor
+[2022-06-05T02:13:49.679302 28196] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:49.679302 28196] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) base_dir = 
+[2022-06-05T02:13:49.679302 28196] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:49.679302 28196] Config: (default) compiler = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:49.679302 28196] Config: (default) compiler_type = auto
+[2022-06-05T02:13:49.679302 28196] Config: (default) compression = true
+[2022-06-05T02:13:49.679302 28196] Config: (default) compression_level = 0
+[2022-06-05T02:13:49.679302 28196] Config: (default) cpp_extension = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) debug = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) debug_dir = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) depend_mode = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) direct_mode = true
+[2022-06-05T02:13:49.679302 28196] Config: (default) disable = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) file_clone = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) hard_link = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) hash_dir = true
+[2022-06-05T02:13:49.679302 28196] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) ignore_options = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) inode_cache = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:49.679302 28196] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:49.679302 28196] Config: (default) max_files = 0
+[2022-06-05T02:13:49.679302 28196] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:49.679302 28196] Config: (default) namespace = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) path = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) prefix_command = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) read_only = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) read_only_direct = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) recache = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) reshare = false
+[2022-06-05T02:13:49.679302 28196] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:49.679302 28196] Config: (default) secondary_storage = 
+[2022-06-05T02:13:49.679302 28196] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:49.679302 28196] Config: (default) stats = true
+[2022-06-05T02:13:49.679302 28196] Config: (default) stats_log = 
+[2022-06-05T02:13:49.679302 28196] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:49.679302 28196] Config: (default) umask = 
+[2022-06-05T02:13:49.679302 28196] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.widgets.custom_grips.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.widgets.custom_grips.c
+[2022-06-05T02:13:49.682304 28196] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:49.682304 28196] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:49.682304 28196] Compiler type: gcc
+[2022-06-05T02:13:49.683304 28196] Source file: module.widgets.custom_grips.c
+[2022-06-05T02:13:49.683304 28196] Object file: module.widgets.custom_grips.o
+[2022-06-05T02:13:49.683304 28196] Trying direct lookup
+[2022-06-05T02:13:49.684303 28196] No 4bf521722bm9v38r18m4huqn0aknf1qc0 in primary storage
+[2022-06-05T02:13:49.685302 28196] Running preprocessor
+[2022-06-05T02:13:50.433303 35632] Got result key from preprocessor
+[2022-06-05T02:13:50.433303 35632] No ae3458signqkcdaldhvc1per2e6qr5kas in primary storage
+[2022-06-05T02:13:50.433303 35632] Running real compiler
+[2022-06-05T02:13:50.563303 35632] Using default compression level 1
+[2022-06-05T02:13:50.563303 35632] Storing embedded entry #0 .o (12447 bytes) from __loader.o
+[2022-06-05T02:13:50.564304 35632] Stored ae3458signqkcdaldhvc1per2e6qr5kas in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/e/3458signqkcdaldhvc1per2e6qr5kasR)
+[2022-06-05T02:13:50.565303 35632] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/83rtm685ggt0h755taooukjgdhcdhdoM
+[2022-06-05T02:13:50.568302 35632] Using default compression level 1
+[2022-06-05T02:13:50.570306 35632] Stored e483rtm685ggt0h755taooukjgdhcdhdo in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/83rtm685ggt0h755taooukjgdhcdhdoM)
+[2022-06-05T02:13:50.570306 35632] Result: cache_miss
+[2022-06-05T02:13:50.570306 35632] Result: direct_cache_miss
+[2022-06-05T02:13:50.570306 35632] Result: preprocessed_cache_miss
+[2022-06-05T02:13:50.570306 35632] Result: primary_storage_miss
+[2022-06-05T02:13:50.570306 35632] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:50.576304 35632] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:50.576304 35632] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:50.583304 35632] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:50.583304 35632] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.o7TC8r
+[2022-06-05T02:13:50.583304 35632] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.RxDiR5
+[2022-06-05T02:13:50.583304 35632] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.VIsfOM
+[2022-06-05T02:13:50.584307 35632] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.HXDwIB.i
+[2022-06-05T02:13:50.584307 35632] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.HXDwIB
+[2022-06-05T02:13:51.595306 39636] Got result key from preprocessor
+[2022-06-05T02:13:51.596308 39636] No 4dd5ldsqgjtspsujvhaftauosj8vm7kq6 in primary storage
+[2022-06-05T02:13:51.596308 39636] Running real compiler
+[2022-06-05T02:13:51.596308 39624] Got result key from preprocessor
+[2022-06-05T02:13:51.597305 39624] No f50fa2pmt08evnjdrorcbhcoulm5ajmvc in primary storage
+[2022-06-05T02:13:51.598304 39624] Running real compiler
+[2022-06-05T02:13:51.598304 17472] Got result key from preprocessor
+[2022-06-05T02:13:51.598304 17472] No f708jp521n4iicbqolcih8v6qbqqlp82q in primary storage
+[2022-06-05T02:13:51.598304 17472] Running real compiler
+[2022-06-05T02:13:51.602306 32200] Got result key from preprocessor
+[2022-06-05T02:13:51.603308 32200] No c93cgsamp6h249jrco8jvbgcl7a42oml8 in primary storage
+[2022-06-05T02:13:51.603308 32200] Running real compiler
+[2022-06-05T02:13:51.607306 28196] Got result key from preprocessor
+[2022-06-05T02:13:51.608309 28196] No 1568f77cjrrskio7ev77etb3d8qfmejfi in primary storage
+[2022-06-05T02:13:51.608309 28196] Running real compiler
+[2022-06-05T02:13:51.608309 24024] Got result key from preprocessor
+[2022-06-05T02:13:51.609309 24024] No 8b227orq00ggi9t0pe9ucpgkhqrb165am in primary storage
+[2022-06-05T02:13:51.609309 24024] Running real compiler
+[2022-06-05T02:13:51.610307 26236] Got result key from preprocessor
+[2022-06-05T02:13:51.611306 26236] No a5afdgvfl3v41b1fjkc1ecblp1iocj296 in primary storage
+[2022-06-05T02:13:51.611306 26236] Running real compiler
+[2022-06-05T02:13:51.613306 3748 ] Got result key from preprocessor
+[2022-06-05T02:13:51.614308 3748 ] No c6b14rsu2mmr4s24fvmqrvpfe7p15geii in primary storage
+[2022-06-05T02:13:51.614308 3748 ] Running real compiler
+[2022-06-05T02:13:51.617309 37692] Got result key from preprocessor
+[2022-06-05T02:13:51.617309 37692] No e6efro8ifironaa3unn4u954a0goq7lbq in primary storage
+[2022-06-05T02:13:51.617309 37692] Running real compiler
+[2022-06-05T02:13:51.620306 34176] Got result key from preprocessor
+[2022-06-05T02:13:51.621308 34176] No c731a8e82hooae3sev82gh537l7bso41i in primary storage
+[2022-06-05T02:13:51.621308 34176] Running real compiler
+[2022-06-05T02:13:51.622308 10108] Got result key from preprocessor
+[2022-06-05T02:13:51.623309 10108] No d4f67m5vk3qrga0ovc0ljnpvs86fflgjo in primary storage
+[2022-06-05T02:13:51.623309 10108] Running real compiler
+[2022-06-05T02:13:51.626305 38752] Got result key from preprocessor
+[2022-06-05T02:13:51.627307 38752] No 88889f2tukj2sj9v2piqd4usjgstl0f10 in primary storage
+[2022-06-05T02:13:51.627307 25324] Got result key from preprocessor
+[2022-06-05T02:13:51.627307 38752] Running real compiler
+[2022-06-05T02:13:51.628307 25324] No be1a4iat11c4hq8a323uheukoaapeddrg in primary storage
+[2022-06-05T02:13:51.628307 25324] Running real compiler
+[2022-06-05T02:13:51.630310 37204] Got result key from preprocessor
+[2022-06-05T02:13:51.631305 37204] No 3a5d34f18mu72o24k3qt0d076egau9po8 in primary storage
+[2022-06-05T02:13:51.631305 37204] Running real compiler
+[2022-06-05T02:13:51.853308 36416] Got result key from preprocessor
+[2022-06-05T02:13:51.877306 36416] No 0c2425vvlhdkd9uh8qjjok81k8dgalqie in primary storage
+[2022-06-05T02:13:51.877306 36416] Running real compiler
+[2022-06-05T02:13:53.022306 39636] Using default compression level 1
+[2022-06-05T02:13:53.023307 39636] Storing embedded entry #0 .o (2647 bytes) from __helpers.o
+[2022-06-05T02:13:53.024308 39636] Stored 4dd5ldsqgjtspsujvhaftauosj8vm7kq6 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/d/d5ldsqgjtspsujvhaftauosj8vm7kq6R)
+[2022-06-05T02:13:53.024308 39636] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/b/4bpjh70fgmi40qitrsphstjkebv2fdaM
+[2022-06-05T02:13:53.056309 39636] Using default compression level 1
+[2022-06-05T02:13:53.060306 39636] Stored eb4bpjh70fgmi40qitrsphstjkebv2fda in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/b/4bpjh70fgmi40qitrsphstjkebv2fdaM)
+[2022-06-05T02:13:53.060306 39636] Result: cache_miss
+[2022-06-05T02:13:53.060306 39636] Result: direct_cache_miss
+[2022-06-05T02:13:53.060306 39636] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.060306 39636] Result: primary_storage_miss
+[2022-06-05T02:13:53.060306 39636] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:53.101306 39636] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:53.107307 39636] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.121307 39636] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.121307 39636] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.2GM3BS
+[2022-06-05T02:13:53.122306 39636] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.LSLMTn
+[2022-06-05T02:13:53.123309 39636] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.hoBc5N
+[2022-06-05T02:13:53.123309 39636] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.GHTo6f.i
+[2022-06-05T02:13:53.124308 39636] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.GHTo6f
+[2022-06-05T02:13:53.153306 32200] Using default compression level 1
+[2022-06-05T02:13:53.153306 32200] Storing embedded entry #0 .o (53929 bytes) from module.modules.o
+[2022-06-05T02:13:53.156307 17472] Using default compression level 1
+[2022-06-05T02:13:53.156307 32200] Stored c93cgsamp6h249jrco8jvbgcl7a42oml8 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/9/3cgsamp6h249jrco8jvbgcl7a42oml8R)
+[2022-06-05T02:13:53.156307 17472] Storing embedded entry #0 .o (49437 bytes) from module.widgets.o
+[2022-06-05T02:13:53.156307 32200] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/c/b345dnn2fl0b0qnm70i7clll15vepqcM
+[2022-06-05T02:13:53.159309 17472] Stored f708jp521n4iicbqolcih8v6qbqqlp82q in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/7/08jp521n4iicbqolcih8v6qbqqlp82qR)
+[2022-06-05T02:13:53.162307 17472] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/84vhp78i1aa1o86db4lmhmrc175gejaM
+[2022-06-05T02:13:53.178309 39624] Using default compression level 1
+[2022-06-05T02:13:53.179305 39624] Storing embedded entry #0 .o (14191 bytes) from __constants.o
+[2022-06-05T02:13:53.187305 32200] Using default compression level 1
+[2022-06-05T02:13:53.189308 32200] Stored 2cb345dnn2fl0b0qnm70i7clll15vepqc in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/c/b345dnn2fl0b0qnm70i7clll15vepqcM)
+[2022-06-05T02:13:53.189308 32200] Result: cache_miss
+[2022-06-05T02:13:53.189308 32200] Result: direct_cache_miss
+[2022-06-05T02:13:53.189308 32200] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.189308 32200] Result: primary_storage_miss
+[2022-06-05T02:13:53.190305 32200] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2022-06-05T02:13:53.192308 39624] Stored f50fa2pmt08evnjdrorcbhcoulm5ajmvc in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/5/0fa2pmt08evnjdrorcbhcoulm5ajmvcR)
+[2022-06-05T02:13:53.197307 39624] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/5/34pvat3do1u2vq02u86rbts9rvglqi8M
+[2022-06-05T02:13:53.204306 17472] Using default compression level 1
+[2022-06-05T02:13:53.207305 17472] Stored 4884vhp78i1aa1o86db4lmhmrc175geja in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/84vhp78i1aa1o86db4lmhmrc175gejaM)
+[2022-06-05T02:13:53.207305 17472] Result: cache_miss
+[2022-06-05T02:13:53.207305 17472] Result: direct_cache_miss
+[2022-06-05T02:13:53.207305 17472] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.207305 17472] Result: primary_storage_miss
+[2022-06-05T02:13:53.207305 17472] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.209305 17472] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.209305 37692] Using default compression level 1
+[2022-06-05T02:13:53.209305 37692] Storing embedded entry #0 .o (59065 bytes) from module.modules.app_settings.o
+[2022-06-05T02:13:53.209305 17472] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:53.210307 24024] Using default compression level 1
+[2022-06-05T02:13:53.210307 28196] Using default compression level 1
+[2022-06-05T02:13:53.210307 24024] Storing embedded entry #0 .o (86458 bytes) from module.modules.app_functions.o
+[2022-06-05T02:13:53.210307 28196] Storing embedded entry #0 .o (49601 bytes) from module.widgets.custom_grips.o
+[2022-06-05T02:13:53.216306 39624] Using default compression level 1
+[2022-06-05T02:13:53.218306 39624] Stored 6534pvat3do1u2vq02u86rbts9rvglqi8 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/5/34pvat3do1u2vq02u86rbts9rvglqi8M)
+[2022-06-05T02:13:53.218306 39624] Result: cache_miss
+[2022-06-05T02:13:53.218306 39624] Result: direct_cache_miss
+[2022-06-05T02:13:53.218306 39624] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.218306 39624] Result: primary_storage_miss
+[2022-06-05T02:13:53.218306 39624] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-06-05T02:13:53.240306 26236] Using default compression level 1
+[2022-06-05T02:13:53.241304 26236] Storing embedded entry #0 .o (55947 bytes) from module.modules.resources_rc.o
+[2022-06-05T02:13:53.252305 3748 ] Using default compression level 1
+[2022-06-05T02:13:53.252305 3748 ] Storing embedded entry #0 .o (54601 bytes) from module.shiboken6.o
+[2022-06-05T02:13:53.265308 24024] Stored 8b227orq00ggi9t0pe9ucpgkhqrb165am in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/b/227orq00ggi9t0pe9ucpgkhqrb165amR)
+[2022-06-05T02:13:53.266308 24024] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/8/04a3alcqd784deolrhqli15ck37rkpmM
+[2022-06-05T02:13:53.266308 28196] Stored 1568f77cjrrskio7ev77etb3d8qfmejfi in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/5/68f77cjrrskio7ev77etb3d8qfmejfiR)
+[2022-06-05T02:13:53.266308 28196] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/f521722bm9v38r18m4huqn0aknf1qc0M
+[2022-06-05T02:13:53.266308 37692] Stored e6efro8ifironaa3unn4u954a0goq7lbq in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/6/efro8ifironaa3unn4u954a0goq7lbqR)
+[2022-06-05T02:13:53.267308 37692] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/dcf766u4g94v3bisk6dgr7o2c70uc08M
+[2022-06-05T02:13:53.270306 32200] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2022-06-05T02:13:53.271306 39624] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-06-05T02:13:53.271306 32200] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:53.272307 26236] Stored a5afdgvfl3v41b1fjkc1ecblp1iocj296 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/afdgvfl3v41b1fjkc1ecblp1iocj296R)
+[2022-06-05T02:13:53.272307 17472] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:53.272307 26236] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/044gv1vc9ovv80cfviasbdhgtto62ugM
+[2022-06-05T02:13:53.272307 39624] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.272307 39624] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock; sleeping 1000 microseconds
+[2022-06-05T02:13:53.272307 17472] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1BSUJm
+[2022-06-05T02:13:53.272307 17472] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.MmSw5D
+[2022-06-05T02:13:53.272307 17472] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.JvqolT
+[2022-06-05T02:13:53.273305 3748 ] Stored c6b14rsu2mmr4s24fvmqrvpfe7p15geii in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/b14rsu2mmr4s24fvmqrvpfe7p15geiiR)
+[2022-06-05T02:13:53.273305 17472] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.fAKsvA.i
+[2022-06-05T02:13:53.273305 3748 ] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/bcr498c4549qch4hj24r76e2mugmd80M
+[2022-06-05T02:13:53.274306 17472] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.fAKsvA
+[2022-06-05T02:13:53.281308 39624] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:53.289307 24024] Using default compression level 1
+[2022-06-05T02:13:53.290306 37692] Using default compression level 1
+[2022-06-05T02:13:53.291307 24024] Stored 5804a3alcqd784deolrhqli15ck37rkpm in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/8/04a3alcqd784deolrhqli15ck37rkpmM)
+[2022-06-05T02:13:53.291307 24024] Result: cache_miss
+[2022-06-05T02:13:53.291307 24024] Result: direct_cache_miss
+[2022-06-05T02:13:53.291307 24024] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.291307 24024] Result: primary_storage_miss
+[2022-06-05T02:13:53.291307 28196] Using default compression level 1
+[2022-06-05T02:13:53.291307 24024] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2022-06-05T02:13:53.292309 37692] Stored f9dcf766u4g94v3bisk6dgr7o2c70uc08 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/dcf766u4g94v3bisk6dgr7o2c70uc08M)
+[2022-06-05T02:13:53.292309 37692] Result: cache_miss
+[2022-06-05T02:13:53.292309 37692] Result: direct_cache_miss
+[2022-06-05T02:13:53.292309 37692] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.292309 37692] Result: primary_storage_miss
+[2022-06-05T02:13:53.293307 37692] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.293307 37692] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock; sleeping 1000 microseconds
+[2022-06-05T02:13:53.294306 28196] Stored 4bf521722bm9v38r18m4huqn0aknf1qc0 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/f521722bm9v38r18m4huqn0aknf1qc0M)
+[2022-06-05T02:13:53.294306 28196] Result: cache_miss
+[2022-06-05T02:13:53.294306 28196] Result: direct_cache_miss
+[2022-06-05T02:13:53.294306 28196] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.294306 28196] Result: primary_storage_miss
+[2022-06-05T02:13:53.294306 28196] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.296306 28196] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.296306 37692] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.296306 37692] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock; sleeping 2000 microseconds
+[2022-06-05T02:13:53.297305 3748 ] Using default compression level 1
+[2022-06-05T02:13:53.298310 26236] Using default compression level 1
+[2022-06-05T02:13:53.298310 28196] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-06-05T02:13:53.300306 3748 ] Stored 47bcr498c4549qch4hj24r76e2mugmd80 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/bcr498c4549qch4hj24r76e2mugmd80M)
+[2022-06-05T02:13:53.300306 32200] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:53.300306 3748 ] Result: cache_miss
+[2022-06-05T02:13:53.300306 3748 ] Result: direct_cache_miss
+[2022-06-05T02:13:53.300306 3748 ] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.300306 3748 ] Result: primary_storage_miss
+[2022-06-05T02:13:53.300306 26236] Stored 10044gv1vc9ovv80cfviasbdhgtto62ug in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/044gv1vc9ovv80cfviasbdhgtto62ugM)
+[2022-06-05T02:13:53.300306 3748 ] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+
+[2022-06-05T02:13:53.300306 26236] Result: cache_miss
+[2022-06-05T02:13:53.300306 26236] Result: direct_cache_miss
+[2022-06-05T02:13:53.300306 26236] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.300306 26236] Result: primary_storage_miss
+[2022-06-05T02:13:53.300306 32200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.G74wsy
+[2022-06-05T02:13:53.300306 32200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.xgjiHD
+[2022-06-05T02:13:53.301304 32200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.hfVq3j.i
+[2022-06-05T02:13:53.301304 26236] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.301304 26236] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock; sleeping 1000 microseconds
+[2022-06-05T02:13:53.301304 32200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.hfVq3j
+[2022-06-05T02:13:53.311306 37692] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.311306 26236] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock; sleeping 2000 microseconds
+[2022-06-05T02:13:53.311306 37692] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock; sleeping 4000 microseconds
+[2022-06-05T02:13:53.326304 26236] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.326304 26236] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock; sleeping 4000 microseconds
+[2022-06-05T02:13:53.326304 37692] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock; sleeping 8000 microseconds
+[2022-06-05T02:13:53.333306 39624] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:53.333306 39624] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.Bq1mvg
+[2022-06-05T02:13:53.334305 39624] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.WAiL1E
+[2022-06-05T02:13:53.334305 39624] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.lVTzOz
+[2022-06-05T02:13:53.334305 39624] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ldnxur.i
+[2022-06-05T02:13:53.335307 39624] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ldnxur
+[2022-06-05T02:13:53.341305 26236] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.341305 26236] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock; sleeping 8000 microseconds
+[2022-06-05T02:13:53.357304 26236] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.357304 26236] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock; sleeping 10000 microseconds
+[2022-06-05T02:13:53.373308 26236] lockfile_acquire: CreateFile C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (32)
+[2022-06-05T02:13:53.374307 26236] lockfile_acquire: failed to acquire C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock; sleeping 10000 microseconds
+[2022-06-05T02:13:53.383309 25324] Using default compression level 1
+[2022-06-05T02:13:53.383309 25324] Storing embedded entry #0 .o (240547 bytes) from module.__main__.o
+[2022-06-05T02:13:53.383309 28196] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-06-05T02:13:53.384310 28196] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.lKZ0NP
+[2022-06-05T02:13:53.384310 28196] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.cJPGdT
+[2022-06-05T02:13:53.385307 28196] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.2YABMl
+[2022-06-05T02:13:53.387308 24024] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2022-06-05T02:13:53.387308 28196] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.vXZYKP.i
+[2022-06-05T02:13:53.387308 24024] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:53.388310 28196] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.vXZYKP
+[2022-06-05T02:13:53.388310 26236] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-06-05T02:13:53.389309 3748 ] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.389309 3748 ] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:53.391307 26236] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-06-05T02:13:53.392306 26236] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:53.392306 3748 ] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:53.393307 3748 ] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.7aS1jx
+[2022-06-05T02:13:53.393307 37692] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:53.393307 3748 ] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.FEqDrk
+[2022-06-05T02:13:53.393307 3748 ] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.BJ3jPi
+[2022-06-05T02:13:53.393307 37692] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:53.393307 3748 ] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.aDf2ML.i
+[2022-06-05T02:13:53.393307 26236] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:53.394306 25324] Stored be1a4iat11c4hq8a323uheukoaapeddrg in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/e/1a4iat11c4hq8a323uheukoaapeddrgR)
+[2022-06-05T02:13:53.394306 26236] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.zJyluO
+[2022-06-05T02:13:53.394306 25324] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/0/cf4hv3dkobjtub2vgvlihrodts8ik8eM
+[2022-06-05T02:13:53.395310 37692] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:53.395310 37692] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.VXqRYh
+[2022-06-05T02:13:53.398309 37692] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.1tlWHV
+[2022-06-05T02:13:53.399307 37692] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.lCCCqI
+[2022-06-05T02:13:53.399307 26236] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.hCUVrL
+[2022-06-05T02:13:53.399307 37692] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.nTpscq.i
+[2022-06-05T02:13:53.399307 26236] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.0dhONy
+[2022-06-05T02:13:53.400307 37692] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.nTpscq
+[2022-06-05T02:13:53.400307 26236] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.0Sngjq.i
+[2022-06-05T02:13:53.400307 3748 ] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.aDf2ML
+[2022-06-05T02:13:53.400307 26236] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.0Sngjq
+[2022-06-05T02:13:53.406306 40448] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:53.406306 10108] Using default compression level 1
+[2022-06-05T02:13:53.406306 40448] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) base_dir = 
+[2022-06-05T02:13:53.406306 40448] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:53.406306 40448] Config: (default) compiler = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:53.406306 40448] Config: (default) compiler_type = auto
+[2022-06-05T02:13:53.406306 40448] Config: (default) compression = true
+[2022-06-05T02:13:53.406306 40448] Config: (default) compression_level = 0
+[2022-06-05T02:13:53.406306 40448] Config: (default) cpp_extension = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) debug = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) debug_dir = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) depend_mode = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) direct_mode = true
+[2022-06-05T02:13:53.406306 40448] Config: (default) disable = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) file_clone = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) hard_link = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) hash_dir = true
+[2022-06-05T02:13:53.406306 40448] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) ignore_options = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) inode_cache = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:53.406306 40448] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:53.406306 40448] Config: (default) max_files = 0
+[2022-06-05T02:13:53.406306 40448] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:53.406306 40448] Config: (default) namespace = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) path = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) prefix_command = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) read_only = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) read_only_direct = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) recache = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) reshare = false
+[2022-06-05T02:13:53.406306 40448] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:53.406306 40448] Config: (default) secondary_storage = 
+[2022-06-05T02:13:53.406306 40448] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:53.406306 40448] Config: (default) stats = true
+[2022-06-05T02:13:53.406306 40448] Config: (default) stats_log = 
+[2022-06-05T02:13:53.406306 40448] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:53.406306 40448] Config: (default) umask = 
+[2022-06-05T02:13:53.406306 40448] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o module.widgets.custom_grips.custom_grips.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src module.widgets.custom_grips.custom_grips.c
+406306 10108] Storing embedded entry #0 .o (187869 bytes) from module.Lotus.o
+[2022-06-05T02:13:53.412307 40448] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:53.412307 40448] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:53.412307 40448] Compiler type: gcc
+[2022-06-05T02:13:53.413307 40448] Source file: module.widgets.custom_grips.custom_grips.c
+[2022-06-05T02:13:53.413307 40448] Object file: module.widgets.custom_grips.custom_grips.o
+[2022-06-05T02:13:53.413307 40448] Trying direct lookup
+[2022-06-05T02:13:53.415305 40448] No 0604felv637pn6tsvs1pshfk5nhe3nioi in primary storage
+[2022-06-05T02:13:53.416305 25324] Using default compression level 1
+[2022-06-05T02:13:53.417305 40448] Running preprocessor
+[2022-06-05T02:13:53.418304 25324] Stored 40cf4hv3dkobjtub2vgvlihrodts8ik8e in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/0/cf4hv3dkobjtub2vgvlihrodts8ik8eM)
+[2022-06-05T02:13:53.418304 25324] Result: cache_miss
+[2022-06-05T02:13:53.418304 25324] Result: direct_cache_miss
+[2022-06-05T02:13:53.418304 25324] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.418304 25324] Result: primary_storage_miss
+[2022-06-05T02:13:53.418304 25324] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.419304 34176] Using default compression level 1
+[2022-06-05T02:13:53.419304 34176] Storing embedded entry #0 .o (206617 bytes) from module.PySide6.o
+[2022-06-05T02:13:53.446307 24024] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:53.446307 24024] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.9WVHlm
+[2022-06-05T02:13:53.446307 24024] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.ASXQnK
+[2022-06-05T02:13:53.446307 24024] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.jBxnzu
+[2022-06-05T02:13:53.447307 24024] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.k9hduf.i
+[2022-06-05T02:13:53.447307 34176] Stored c731a8e82hooae3sev82gh537l7bso41i in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/7/31a8e82hooae3sev82gh537l7bso41iR)
+[2022-06-05T02:13:53.447307 24024] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.k9hduf
+[2022-06-05T02:13:53.447307 34176] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/d809bjv42osepojlgik1728kpo3ll30M
+[2022-06-05T02:13:53.454305 25324] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:53.454305 25324] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-06-05T02:13:53.456306 10108] Stored d4f67m5vk3qrga0ovc0ljnpvs86fflgjo in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/4/f67m5vk3qrga0ovc0ljnpvs86fflgjoR)
+[2022-06-05T02:13:53.457306 10108] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/8884evor39ueas79sv8ntcue50kfdkuM
+[2022-06-05T02:13:53.463305 34176] Using default compression level 1
+[2022-06-05T02:13:53.466305 34176] Stored efd809bjv42osepojlgik1728kpo3ll30 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/d809bjv42osepojlgik1728kpo3ll30M)
+[2022-06-05T02:13:53.466305 34176] Result: cache_miss
+[2022-06-05T02:13:53.466305 34176] Result: direct_cache_miss
+[2022-06-05T02:13:53.466305 34176] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.466305 34176] Result: primary_storage_miss
+[2022-06-05T02:13:53.466305 34176] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:53.473303 10108] Using default compression level 1
+[2022-06-05T02:13:53.474305 10108] Stored 608884evor39ueas79sv8ntcue50kfdku in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/0/8884evor39ueas79sv8ntcue50kfdkuM)
+[2022-06-05T02:13:53.475305 10108] Result: cache_miss
+[2022-06-05T02:13:53.475305 10108] Result: direct_cache_miss
+[2022-06-05T02:13:53.475305 10108] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.475305 10108] Result: primary_storage_miss
+[2022-06-05T02:13:53.475305 10108] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-06-05T02:13:53.478306 10108] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-06-05T02:13:53.478306 10108] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-06-05T02:13:53.486307 34176] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-06-05T02:13:53.487310 34176] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:53.490306 34176] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:53.490306 34176] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.OrmqAW
+[2022-06-05T02:13:53.490306 34176] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.YCdiT8
+[2022-06-05T02:13:53.490306 34176] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.2muN4T
+[2022-06-05T02:13:53.502303 38752] Using default compression level 1
+[2022-06-05T02:13:53.502303 38752] Storing embedded entry #0 .o (181886 bytes) from module._virtualenv.o
+[2022-06-05T02:13:53.509305 25324] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-06-05T02:13:53.509305 25324] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.QrVn2g
+[2022-06-05T02:13:53.509305 25324] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.rnEd88
+[2022-06-05T02:13:53.509305 25324] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.JNRO3l
+[2022-06-05T02:13:53.509305 25324] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.CtxZZ7.i
+[2022-06-05T02:13:53.510305 25324] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.CtxZZ7
+[2022-06-05T02:13:53.526304 10108] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-06-05T02:13:53.526304 10108] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.GvLT6U
+[2022-06-05T02:13:53.526304 10108] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.9PIkfq
+[2022-06-05T02:13:53.527305 10108] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.G1u9FQ
+[2022-06-05T02:13:53.527305 10108] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.rCzjcM.i
+[2022-06-05T02:13:53.527305 10108] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.rCzjcM
+[2022-06-05T02:13:53.534304 38752] Stored 88889f2tukj2sj9v2piqd4usjgstl0f10 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/8/889f2tukj2sj9v2piqd4usjgstl0f10R)
+[2022-06-05T02:13:53.534304 38752] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/1/1c2cncucilbia9mftdmf5mmq57dsvd4M
+[2022-06-05T02:13:53.541306 34176] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.qXsVwj.i
+[2022-06-05T02:13:53.542303 34176] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.qXsVwj
+[2022-06-05T02:13:53.552303 38752] Using default compression level 1
+[2022-06-05T02:13:53.554306 38752] Stored 811c2cncucilbia9mftdmf5mmq57dsvd4 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/1/1c2cncucilbia9mftdmf5mmq57dsvd4M)
+[2022-06-05T02:13:53.554306 38752] Result: cache_miss
+[2022-06-05T02:13:53.554306 38752] Result: direct_cache_miss
+[2022-06-05T02:13:53.554306 38752] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.554306 38752] Result: primary_storage_miss
+[2022-06-05T02:13:53.555305 38752] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:53.556304 38752] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:53.556304 38752] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:53.567303 33872] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:53.567303 33872] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) base_dir = 
+[2022-06-05T02:13:53.567303 33872] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:53.567303 33872] Config: (default) compiler = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:53.567303 33872] Config: (default) compiler_type = auto
+[2022-06-05T02:13:53.567303 33872] Config: (default) compression = true
+[2022-06-05T02:13:53.567303 33872] Config: (default) compression_level = 0
+[2022-06-05T02:13:53.567303 33872] Config: (default) cpp_extension = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) debug = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) debug_dir = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) depend_mode = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) direct_mode = true
+[2022-06-05T02:13:53.567303 33872] Config: (default) disable = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) file_clone = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) hard_link = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) hash_dir = true
+[2022-06-05T02:13:53.567303 33872] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) ignore_options = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) inode_cache = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:53.567303 33872] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:53.567303 33872] Config: (default) max_files = 0
+[2022-06-05T02:13:53.567303 33872] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:53.567303 33872] Config: (default) namespace = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) path = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) prefix_command = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) read_only = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) read_only_direct = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) recache = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) reshare = false
+[2022-06-05T02:13:53.567303 33872] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:53.567303 33872] Config: (default) secondary_storage = 
+[2022-06-05T02:13:53.567303 33872] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:53.567303 33872] Config: (default) stats = true
+[2022-06-05T02:13:53.567303 33872] Config: (default) stats_log = 
+[2022-06-05T02:13:53.567303 33872] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:53.567303 33872] Config: (default) umask = 
+[2022-06-05T02:13:53.567303 33872] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src static_src\MainProgram.c
+[2022-06-05T02:13:53.571307 38752] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:53.571307 33872] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:53.571307 33872] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:53.571307 33872] Compiler type: gcc
+[2022-06-05T02:13:53.572308 38752] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.bIGwr7
+[2022-06-05T02:13:53.572308 38752] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.bIDWJ9
+[2022-06-05T02:13:53.572308 33872] Source file: static_src\MainProgram.c
+[2022-06-05T02:13:53.572308 33872] Object file: static_src\MainProgram.o
+[2022-06-05T02:13:53.572308 38752] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.gPQ3df
+[2022-06-05T02:13:53.572308 33872] Trying direct lookup
+[2022-06-05T02:13:53.572308 38752] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.i3v1oU.i
+[2022-06-05T02:13:53.573305 33872] No fef2n0sg15o0tkkna0f3tj3lj5e53cql6 in primary storage
+[2022-06-05T02:13:53.573305 38752] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.i3v1oU
+[2022-06-05T02:13:53.575304 33872] Running preprocessor
+[2022-06-05T02:13:53.633304 36200] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:53.633304 36200] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) base_dir = 
+[2022-06-05T02:13:53.633304 36200] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:53.633304 36200] Config: (default) compiler = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:53.633304 36200] Config: (default) compiler_type = auto
+[2022-06-05T02:13:53.633304 36200] Config: (default) compression = true
+[2022-06-05T02:13:53.633304 36200] Config: (default) compression_level = 0
+[2022-06-05T02:13:53.633304 36200] Config: (default) cpp_extension = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) debug = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) debug_dir = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) depend_mode = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) direct_mode = true
+[2022-06-05T02:13:53.633304 36200] Config: (default) disable = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) file_clone = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) hard_link = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) hash_dir = true
+[2022-06-05T02:13:53.633304 36200] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) ignore_options = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) inode_cache = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:53.633304 36200] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:53.633304 36200] Config: (default) max_files = 0
+[2022-06-05T02:13:53.633304 36200] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:53.633304 36200] Config: (default) namespace = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) path = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) prefix_command = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) read_only = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) read_only_direct = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) recache = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) reshare = false
+[2022-06-05T02:13:53.633304 36200] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:53.633304 36200] Config: (default) secondary_storage = 
+[2022-06-05T02:13:53.633304 36200] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:53.633304 36200] Config: (default) stats = true
+[2022-06-05T02:13:53.633304 36200] Config: (default) stats_log = 
+[2022-06-05T02:13:53.633304 36200] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:53.633304 36200] Config: (default) umask = 
+[2022-06-05T02:13:53.633304 36200] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-06-05T02:13:53.639305 36200] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:53.639305 36200] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:53.639305 36200] Compiler type: gcc
+[2022-06-05T02:13:53.640308 36200] Source file: static_src\CompiledCellType.c
+[2022-06-05T02:13:53.640308 36200] Object file: static_src\CompiledCellType.o
+[2022-06-05T02:13:53.640308 36200] Trying direct lookup
+[2022-06-05T02:13:53.641305 36200] No 84cco6fuqv8lnnoienltjuneaa1tdtnca in primary storage
+[2022-06-05T02:13:53.645307 36200] Running preprocessor
+[2022-06-05T02:13:53.720305 37204] Using default compression level 1
+[2022-06-05T02:13:53.720305 37204] Storing embedded entry #0 .o (361673 bytes) from module.modules.ui_functions.o
+[2022-06-05T02:13:53.726304 37204] Stored 3a5d34f18mu72o24k3qt0d076egau9po8 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/5d34f18mu72o24k3qt0d076egau9po8R)
+[2022-06-05T02:13:53.727305 37204] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/12n0tg0brtfbnsjv1tguhe5to68jsh4M
+[2022-06-05T02:13:53.743303 37204] Using default compression level 1
+[2022-06-05T02:13:53.745304 37204] Stored 3512n0tg0brtfbnsjv1tguhe5to68jsh4 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/12n0tg0brtfbnsjv1tguhe5to68jsh4M)
+[2022-06-05T02:13:53.745304 37204] Result: cache_miss
+[2022-06-05T02:13:53.745304 37204] Result: direct_cache_miss
+[2022-06-05T02:13:53.745304 37204] Result: preprocessed_cache_miss
+[2022-06-05T02:13:53.745304 37204] Result: primary_storage_miss
+[2022-06-05T02:13:53.745304 37204] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-06-05T02:13:53.752304 37204] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-06-05T02:13:53.753304 37204] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-06-05T02:13:53.764305 37204] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-06-05T02:13:53.764305 37204] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.fJ56nN
+[2022-06-05T02:13:53.765304 37204] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.AmOy2q
+[2022-06-05T02:13:53.765304 37204] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.Cbx6OX
+[2022-06-05T02:13:53.771307 37204] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.jPrsEE.i
+[2022-06-05T02:13:53.772305 37204] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.jPrsEE
+[2022-06-05T02:13:53.828305 37180] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:53.828305 37180] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) base_dir = 
+[2022-06-05T02:13:53.828305 37180] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:53.828305 37180] Config: (default) compiler = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:53.828305 37180] Config: (default) compiler_type = auto
+[2022-06-05T02:13:53.828305 37180] Config: (default) compression = true
+[2022-06-05T02:13:53.828305 37180] Config: (default) compression_level = 0
+[2022-06-05T02:13:53.828305 37180] Config: (default) cpp_extension = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) debug = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) debug_dir = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) depend_mode = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) direct_mode = true
+[2022-06-05T02:13:53.828305 37180] Config: (default) disable = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) file_clone = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) hard_link = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) hash_dir = true
+[2022-06-05T02:13:53.828305 37180] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) ignore_options = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) inode_cache = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:53.828305 37180] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:53.828305 37180] Config: (default) max_files = 0
+[2022-06-05T02:13:53.828305 37180] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:53.828305 37180] Config: (default) namespace = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) path = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) prefix_command = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) read_only = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) read_only_direct = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) recache = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) reshare = false
+[2022-06-05T02:13:53.828305 37180] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:53.828305 37180] Config: (default) secondary_storage = 
+[2022-06-05T02:13:53.828305 37180] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:53.828305 37180] Config: (default) stats = true
+[2022-06-05T02:13:53.828305 37180] Config: (default) stats_log = 
+[2022-06-05T02:13:53.828305 37180] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:53.828305 37180] Config: (default) umask = 
+[2022-06-05T02:13:53.828305 37180] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-06-05T02:13:53.833309 37180] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:53.833309 37180] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:53.833309 37180] Compiler type: gcc
+[2022-06-05T02:13:53.833309 37180] Source file: static_src\CompiledFunctionType.c
+[2022-06-05T02:13:53.833309 37180] Object file: static_src\CompiledFunctionType.o
+[2022-06-05T02:13:53.833309 37180] Trying direct lookup
+[2022-06-05T02:13:53.834305 37180] No 7ea51g7ode8jcvb0iepdda56vheo9f50e in primary storage
+[2022-06-05T02:13:53.836307 37180] Running preprocessor
+[2022-06-05T02:13:53.857308 40668] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:53.857308 40668] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) base_dir = 
+[2022-06-05T02:13:53.857308 40668] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:53.857308 40668] Config: (default) compiler = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:53.857308 40668] Config: (default) compiler_type = auto
+[2022-06-05T02:13:53.857308 40668] Config: (default) compression = true
+[2022-06-05T02:13:53.857308 40668] Config: (default) compression_level = 0
+[2022-06-05T02:13:53.857308 40668] Config: (default) cpp_extension = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) debug = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) debug_dir = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) depend_mode = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) direct_mode = true
+[2022-06-05T02:13:53.857308 40668] Config: (default) disable = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) file_clone = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) hard_link = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) hash_dir = true
+[2022-06-05T02:13:53.857308 40668] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) ignore_options = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) inode_cache = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:53.857308 40668] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:53.857308 40668] Config: (default) max_files = 0
+[2022-06-05T02:13:53.857308 40668] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:53.857308 40668] Config: (default) namespace = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) path = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) prefix_command = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) read_only = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) read_only_direct = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) recache = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) reshare = false
+[2022-06-05T02:13:53.857308 40668] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:53.857308 40668] Config: (default) secondary_storage = 
+[2022-06-05T02:13:53.857308 40668] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:53.857308 40668] Config: (default) stats = true
+[2022-06-05T02:13:53.857308 40668] Config: (default) stats_log = 
+[2022-06-05T02:13:53.857308 40668] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:53.857308 40668] Config: (default) umask = 
+[2022-06-05T02:13:53.857308 40668] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-06-05T02:13:53.863306 40668] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:53.863306 40668] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:53.863306 40668] Compiler type: gcc
+[2022-06-05T02:13:53.863306 40668] Source file: static_src\CompiledGeneratorType.c
+[2022-06-05T02:13:53.863306 40668] Object file: static_src\CompiledGeneratorType.o
+[2022-06-05T02:13:53.863306 40668] Trying direct lookup
+[2022-06-05T02:13:53.864304 40668] No 4ba6bn3uubvgeo01ns2m625utb3loibl8 in primary storage
+[2022-06-05T02:13:53.866306 40668] Running preprocessor
+[2022-06-05T02:13:53.870308 16208] === CCACHE 4.6 STARTED =========================================
+[2022-06-05T02:13:53.870308 16208] Config: (default) absolute_paths_in_stderr = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) base_dir = 
+[2022-06-05T02:13:53.870308 16208] Config: (environment) cache_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-06-05T02:13:53.870308 16208] Config: (default) compiler = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) compiler_check = mtime
+[2022-06-05T02:13:53.870308 16208] Config: (default) compiler_type = auto
+[2022-06-05T02:13:53.870308 16208] Config: (default) compression = true
+[2022-06-05T02:13:53.870308 16208] Config: (default) compression_level = 0
+[2022-06-05T02:13:53.870308 16208] Config: (default) cpp_extension = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) debug = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) debug_dir = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) depend_mode = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) direct_mode = true
+[2022-06-05T02:13:53.870308 16208] Config: (default) disable = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) extra_files_to_hash = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) file_clone = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) hard_link = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) hash_dir = true
+[2022-06-05T02:13:53.870308 16208] Config: (default) ignore_headers_in_manifest = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) ignore_options = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) inode_cache = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) keep_comments_cpp = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) limit_multiple = 0.8
+[2022-06-05T02:13:53.870308 16208] Config: (environment) log_file = D:\Github\Lotus\Lotus\Lotus-deploy\Lotus.build\ccache-36536.txt
+[2022-06-05T02:13:53.870308 16208] Config: (default) max_files = 0
+[2022-06-05T02:13:53.870308 16208] Config: (default) max_size = 5.0G
+[2022-06-05T02:13:53.870308 16208] Config: (default) namespace = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) path = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) pch_external_checksum = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) prefix_command = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) prefix_command_cpp = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) read_only = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) read_only_direct = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) recache = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) reshare = false
+[2022-06-05T02:13:53.870308 16208] Config: (default) run_second_cpp = true
+[2022-06-05T02:13:53.870308 16208] Config: (default) secondary_storage = 
+[2022-06-05T02:13:53.870308 16208] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-06-05T02:13:53.870308 16208] Config: (default) stats = true
+[2022-06-05T02:13:53.870308 16208] Config: (default) stats_log = 
+[2022-06-05T02:13:53.870308 16208] Config: (default) temporary_dir = C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-06-05T02:13:53.870308 16208] Config: (default) umask = 
+[2022-06-05T02:13:53.870308 16208] Command line: C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-14.0.0-9.0.0-msvcrt-r7\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\shi3do\AppData\Local\Programs\Python\Python39\include -I. -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\include -ID:\Github\Lotus\venv\lib\site-packages\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-06-05T02:13:53.877305 16208] Hostname: SHI3DOLAPTOP
+[2022-06-05T02:13:53.877305 16208] Working directory: D:/Github/Lotus/Lotus/Lotus-deploy/Lotus.build
+[2022-06-05T02:13:53.877305 16208] Compiler type: gcc
+[2022-06-05T02:13:53.877305 16208] Source file: static_src\InspectPatcher.c
+[2022-06-05T02:13:53.877305 16208] Object file: static_src\InspectPatcher.o
+[2022-06-05T02:13:53.877305 16208] Trying direct lookup
+[2022-06-05T02:13:53.878304 16208] No 8ccb12qeisbiird3v1h5f70pt2u8sb6jq in primary storage
+[2022-06-05T02:13:53.880310 16208] Running preprocessor
+[2022-06-05T02:13:54.043304 40448] Got result key from preprocessor
+[2022-06-05T02:13:54.043304 40448] No afacn7j5srdhrvhog1otr9cbmunvjlu0u in primary storage
+[2022-06-05T02:13:54.043304 40448] Running real compiler
+[2022-06-05T02:13:54.197304 36200] Got result key from preprocessor
+[2022-06-05T02:13:54.197304 36200] No c5c7399q2bv6bgr7mtsl3ksjhov461bas in primary storage
+[2022-06-05T02:13:54.197304 36200] Running real compiler
+[2022-06-05T02:13:54.402307 40668] Got result key from preprocessor
+[2022-06-05T02:13:54.403306 40668] No a505ges2migbamigrpd8qqclmt8gqe04m in primary storage
+[2022-06-05T02:13:54.403306 40668] Running real compiler
+[2022-06-05T02:13:54.407305 16208] Got result key from preprocessor
+[2022-06-05T02:13:54.408305 16208] No a2dcpkmflongpns8pvh46e08tj0hsspko in primary storage
+[2022-06-05T02:13:54.408305 16208] Running real compiler
+[2022-06-05T02:13:54.943307 36200] Using default compression level 1
+[2022-06-05T02:13:54.943307 36200] Storing embedded entry #0 .o (35343 bytes) from static_src\CompiledCellType.o
+[2022-06-05T02:13:54.945306 36200] Stored c5c7399q2bv6bgr7mtsl3ksjhov461bas in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/5/c7399q2bv6bgr7mtsl3ksjhov461basR)
+[2022-06-05T02:13:54.945306 36200] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/4/cco6fuqv8lnnoienltjuneaa1tdtncaM
+[2022-06-05T02:13:54.964305 36200] Using default compression level 1
+[2022-06-05T02:13:54.967310 36200] Stored 84cco6fuqv8lnnoienltjuneaa1tdtnca in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/4/cco6fuqv8lnnoienltjuneaa1tdtncaM)
+[2022-06-05T02:13:54.967310 36200] Result: cache_miss
+[2022-06-05T02:13:54.967310 36200] Result: direct_cache_miss
+[2022-06-05T02:13:54.967310 36200] Result: preprocessed_cache_miss
+[2022-06-05T02:13:54.967310 36200] Result: primary_storage_miss
+[2022-06-05T02:13:54.968312 36200] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:54.969309 36200] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:54.969309 36200] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:54.971308 36200] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:54.972306 36200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.mqcD5v
+[2022-06-05T02:13:54.972306 36200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.0d0zJ3
+[2022-06-05T02:13:54.972306 36200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.I0787R
+[2022-06-05T02:13:54.973306 36200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.oE21Rq.i
+[2022-06-05T02:13:54.975312 36200] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.oE21Rq
+[2022-06-05T02:13:55.131306 16208] Using default compression level 1
+[2022-06-05T02:13:55.131306 16208] Storing embedded entry #0 .o (39757 bytes) from static_src\InspectPatcher.o
+[2022-06-05T02:13:55.132309 16208] Stored a2dcpkmflongpns8pvh46e08tj0hsspko in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/2/dcpkmflongpns8pvh46e08tj0hsspkoR)
+[2022-06-05T02:13:55.132309 16208] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/c/cb12qeisbiird3v1h5f70pt2u8sb6jqM
+[2022-06-05T02:13:55.140307 33872] Got result key from preprocessor
+[2022-06-05T02:13:55.141306 33872] No c0b725vgv412h8dea7niglso17c4q8pfu in primary storage
+[2022-06-05T02:13:55.141306 33872] Running real compiler
+[2022-06-05T02:13:55.158306 16208] Using default compression level 1
+[2022-06-05T02:13:55.160306 16208] Stored 8ccb12qeisbiird3v1h5f70pt2u8sb6jq in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/c/cb12qeisbiird3v1h5f70pt2u8sb6jqM)
+[2022-06-05T02:13:55.161306 16208] Result: cache_miss
+[2022-06-05T02:13:55.161306 16208] Result: direct_cache_miss
+[2022-06-05T02:13:55.161306 16208] Result: preprocessed_cache_miss
+[2022-06-05T02:13:55.161306 16208] Result: primary_storage_miss
+[2022-06-05T02:13:55.161306 16208] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:55.162310 16208] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2022-06-05T02:13:55.162310 16208] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:55.163307 16208] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:55.164305 16208] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.S6fOMY
+[2022-06-05T02:13:55.164305 16208] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.HDhNOo
+[2022-06-05T02:13:55.164305 16208] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.6JlmUK
+[2022-06-05T02:13:55.164305 16208] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.txuxDq.i
+[2022-06-05T02:13:55.165304 16208] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.txuxDq
+[2022-06-05T02:13:55.192304 40448] Using default compression level 1
+[2022-06-05T02:13:55.192304 40448] Storing embedded entry #0 .o (365406 bytes) from module.widgets.custom_grips.custom_grips.o
+[2022-06-05T02:13:55.195306 40448] Stored afacn7j5srdhrvhog1otr9cbmunvjlu0u in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/f/acn7j5srdhrvhog1otr9cbmunvjlu0uR)
+[2022-06-05T02:13:55.195306 40448] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/6/04felv637pn6tsvs1pshfk5nhe3nioiM
+[2022-06-05T02:13:55.209307 40448] Using default compression level 1
+[2022-06-05T02:13:55.210303 40448] Stored 0604felv637pn6tsvs1pshfk5nhe3nioi in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/6/04felv637pn6tsvs1pshfk5nhe3nioiM)
+[2022-06-05T02:13:55.210303 40448] Result: cache_miss
+[2022-06-05T02:13:55.210303 40448] Result: direct_cache_miss
+[2022-06-05T02:13:55.210303 40448] Result: preprocessed_cache_miss
+[2022-06-05T02:13:55.210303 40448] Result: primary_storage_miss
+[2022-06-05T02:13:55.211304 40448] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-06-05T02:13:55.221306 40448] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-06-05T02:13:55.221306 40448] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:55.222307 40448] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:55.222307 40448] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.8YKJIX
+[2022-06-05T02:13:55.222307 40448] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.zT55ex
+[2022-06-05T02:13:55.222307 40448] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.yENQJZ
+[2022-06-05T02:13:55.223306 40448] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ocAqVD.i
+[2022-06-05T02:13:55.223306 40448] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ocAqVD
+[2022-06-05T02:13:55.344305 40668] Using default compression level 1
+[2022-06-05T02:13:55.345304 40668] Storing embedded entry #0 .o (358009 bytes) from static_src\CompiledGeneratorType.o
+[2022-06-05T02:13:55.347305 40668] Stored a505ges2migbamigrpd8qqclmt8gqe04m in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/05ges2migbamigrpd8qqclmt8gqe04mR)
+[2022-06-05T02:13:55.347305 40668] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/a6bn3uubvgeo01ns2m625utb3loibl8M
+[2022-06-05T02:13:55.358304 40668] Using default compression level 1
+[2022-06-05T02:13:55.359303 40668] Stored 4ba6bn3uubvgeo01ns2m625utb3loibl8 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/a6bn3uubvgeo01ns2m625utb3loibl8M)
+[2022-06-05T02:13:55.359303 40668] Result: cache_miss
+[2022-06-05T02:13:55.359303 40668] Result: direct_cache_miss
+[2022-06-05T02:13:55.359303 40668] Result: preprocessed_cache_miss
+[2022-06-05T02:13:55.359303 40668] Result: primary_storage_miss
+[2022-06-05T02:13:55.360307 40668] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:55.361304 40668] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-06-05T02:13:55.361304 40668] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:55.362305 40668] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-06-05T02:13:55.362305 40668] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.M6hMKp
+[2022-06-05T02:13:55.362305 40668] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.1HBTDF
+[2022-06-05T02:13:55.362305 40668] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.tm4xQq
+[2022-06-05T02:13:55.362305 40668] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.XItUjP.i
+[2022-06-05T02:13:55.363303 40668] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.XItUjP
+[2022-06-05T02:13:56.208305 33872] Using default compression level 1
+[2022-06-05T02:13:56.208305 33872] Storing embedded entry #0 .o (24743 bytes) from static_src\MainProgram.o
+[2022-06-05T02:13:56.209303 33872] Stored c0b725vgv412h8dea7niglso17c4q8pfu in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/b725vgv412h8dea7niglso17c4q8pfuR)
+[2022-06-05T02:13:56.209303 33872] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/e/f2n0sg15o0tkkna0f3tj3lj5e53cql6M
+[2022-06-05T02:13:56.223303 33872] Using default compression level 1
+[2022-06-05T02:13:56.225306 33872] Stored fef2n0sg15o0tkkna0f3tj3lj5e53cql6 in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/e/f2n0sg15o0tkkna0f3tj3lj5e53cql6M)
+[2022-06-05T02:13:56.226307 33872] Result: cache_miss
+[2022-06-05T02:13:56.226307 33872] Result: direct_cache_miss
+[2022-06-05T02:13:56.226307 33872] Result: preprocessed_cache_miss
+[2022-06-05T02:13:56.226307 33872] Result: primary_storage_miss
+[2022-06-05T02:13:56.226307 33872] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:56.227306 33872] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-06-05T02:13:56.228305 33872] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:56.229304 33872] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-06-05T02:13:56.229304 33872] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1AnhT0
+[2022-06-05T02:13:56.229304 33872] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.eqmorI
+[2022-06-05T02:13:56.229304 33872] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.yX9K9o
+[2022-06-05T02:13:56.229304 33872] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.h7q6ne.i
+[2022-06-05T02:13:56.230303 33872] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.h7q6ne
+[2022-06-05T02:13:56.431302 37180] Got result key from preprocessor
+[2022-06-05T02:13:56.432305 37180] No 39052r4df10rnocvpefs575m8n4h9kmfu in primary storage
+[2022-06-05T02:13:56.432305 37180] Running real compiler
+[2022-06-05T02:13:56.557304 36416] Using default compression level 1
+[2022-06-05T02:13:56.557304 36416] Storing embedded entry #0 .o (1194602 bytes) from module.modules.ui_main.o
+[2022-06-05T02:13:56.561304 36416] Stored 0c2425vvlhdkd9uh8qjjok81k8dgalqie in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/c/2425vvlhdkd9uh8qjjok81k8dgalqieR)
+[2022-06-05T02:13:56.561304 36416] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/44q5bnal8cqr69cqkgisil9dqc4p40kM
+[2022-06-05T02:13:56.571303 36416] Using default compression level 1
+[2022-06-05T02:13:56.572302 36416] Stored 1c44q5bnal8cqr69cqkgisil9dqc4p40k in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/44q5bnal8cqr69cqkgisil9dqc4p40kM)
+[2022-06-05T02:13:56.572302 36416] Result: cache_miss
+[2022-06-05T02:13:56.572302 36416] Result: direct_cache_miss
+[2022-06-05T02:13:56.572302 36416] Result: preprocessed_cache_miss
+[2022-06-05T02:13:56.572302 36416] Result: primary_storage_miss
+[2022-06-05T02:13:56.573302 36416] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-06-05T02:13:56.574302 36416] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-06-05T02:13:56.574302 36416] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-06-05T02:13:56.575302 36416] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2022-06-05T02:13:56.575302 36416] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.Wt06Is
+[2022-06-05T02:13:56.575302 36416] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.oqPDSD
+[2022-06-05T02:13:56.575302 36416] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.zyUHUa
+[2022-06-05T02:13:56.575302 36416] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.J32m5s.i
+[2022-06-05T02:13:56.576306 36416] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.J32m5s
+[2022-06-05T02:14:00.734402 37180] Using default compression level 1
+[2022-06-05T02:14:00.734402 37180] Storing embedded entry #0 .o (3338814 bytes) from static_src\CompiledFunctionType.o
+[2022-06-05T02:14:00.741402 37180] Stored 39052r4df10rnocvpefs575m8n4h9kmfu in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/9/052r4df10rnocvpefs575m8n4h9kmfuR)
+[2022-06-05T02:14:00.741402 37180] Adding result key to C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/e/a51g7ode8jcvb0iepdda56vheo9f50eM
+[2022-06-05T02:14:00.752403 37180] Using default compression level 1
+[2022-06-05T02:14:00.754403 37180] Stored 7ea51g7ode8jcvb0iepdda56vheo9f50e in primary storage (C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/e/a51g7ode8jcvb0iepdda56vheo9f50eM)
+[2022-06-05T02:14:00.754403 37180] Result: cache_miss
+[2022-06-05T02:14:00.754403 37180] Result: direct_cache_miss
+[2022-06-05T02:14:00.754403 37180] Result: preprocessed_cache_miss
+[2022-06-05T02:14:00.754403 37180] Result: primary_storage_miss
+[2022-06-05T02:14:00.754403 37180] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-06-05T02:14:00.765404 37180] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-06-05T02:14:00.765404 37180] Acquired lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-06-05T02:14:00.766404 37180] Releasing lock C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-06-05T02:14:00.766404 37180] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.n6SWyc
+[2022-06-05T02:14:00.766404 37180] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.khEMfy
+[2022-06-05T02:14:00.766404 37180] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.Rt30jJ
+[2022-06-05T02:14:00.766404 37180] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.5dwU1L.i
+[2022-06-05T02:14:00.768403 37180] Unlink C:\Users\shi3do\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.5dwU1L
